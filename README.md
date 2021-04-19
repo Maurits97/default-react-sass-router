@@ -3,7 +3,7 @@
 Made by: Maurits Brouwer\
 Date: 19-4-2021
 
-Has the following elements:
+Has the following:
 - Default files
 - Sass
 - React Router
@@ -11,7 +11,7 @@ Has the following elements:
 # Usage guide
 
 - First create a `new` repository
-- Clone the `default repository``
+- Clone the `default repository`
 - Go to `the cloned default repository` and mirror it into your new repository:`git push --mirror https://github.com/exampleuser/new-repository.git`
 - Remove the clone of `the default repository`
 
