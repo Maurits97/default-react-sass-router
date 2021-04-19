@@ -11,11 +11,11 @@ Has the following elements:
 # Usage guide
 
 - First create a `new` repository
-- Clone the `default repository`
-- Go to Clone and mirror it into your new repository: git push --mirror https://github.com/exampleuser/new-repository.git
+- Clone the `default repository``
+- Go to `the cloned default repository` and mirror it into your new repository: ###`git push --mirror https://github.com/exampleuser/new-repository.git`
 - Remove the clone of `the default repository`
 
-`After this install all the dependencies in your new project with: npm install`
+`After this install all the dependencies in your new project with: ### npm install`
 
 # Getting Started with Create React App
 
