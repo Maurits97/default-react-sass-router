@@ -7,7 +7,7 @@ Has the following elements:
 - Default files
 - Sass
 
-When cloning: npm install to install all dependencies
+`When cloning: npm install to install all dependencies`
 
 # Getting Started with Create React App
 
