@@ -3,7 +3,7 @@
 Made by: Maurits Brouwer\
 Date: 19-4-2021
 
-Has the following:
+__Has the following:__
 - Default files
 - Sass
 - React Router
