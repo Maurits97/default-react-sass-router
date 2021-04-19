@@ -1,6 +1,6 @@
 # REACT DEFAULT PROJECT
 
-Made by: Maurits Brouwer
+Made by: Maurits Brouwer\
 Date: 19-4-2021
 
 Has the following elements:
