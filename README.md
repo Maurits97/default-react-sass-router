@@ -6,6 +6,7 @@ Date: 19-4-2021
 Has the following elements:
 - Default files
 - Sass
+- React Router
 
 `When cloning: npm install to install all dependencies`
 
