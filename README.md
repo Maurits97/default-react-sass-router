@@ -8,7 +8,14 @@ Has the following elements:
 - Sass
 - React Router
 
-`When cloning: npm install to install all dependencies`
+# Usage guide
+
+- First create a new repository
+- Clone this repository
+- Go to Clone and mirror it into your new repository: git push --mirror https://github.com/exampleuser/new-repository.git
+- Remove the clone of the default repository
+
+`After this install all the dependencies in your new project with: npm install`
 
 # Getting Started with Create React App
 
