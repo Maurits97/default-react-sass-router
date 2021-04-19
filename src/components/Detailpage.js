@@ -1,10 +1,10 @@
 import React from 'react'
 
-class Mainpage extends React.Component {
+class Detailpage extends React.Component {
   constructor(props){
     super(props)
     this.state = {
-      header: 'Home page',
+      header: 'Detail page',
     };
   }
   render() {
@@ -16,4 +16,4 @@ class Mainpage extends React.Component {
   }
 }
 
-export default Mainpage;
+export default Detailpage;
