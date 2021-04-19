@@ -1,3 +1,9 @@
+# REACT DEFAULT PROJECT
+
+Has the following elements:
+- Default files
+- Sass
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
